@@ -145,7 +145,7 @@ gunzip /usr/share/wordlists/rockyou.txt.gz
 
 ```bash
 # Clonar el repo
-git clone https://github.com/tu-usuario/crypto-fundamentals-lab.git
+git clone https://github.com/jxsewv/crypto-fundamentals-lab.git
 cd crypto-fundamentals-lab/hash-cracker
 
 # V1: Generar hashes de un texto
