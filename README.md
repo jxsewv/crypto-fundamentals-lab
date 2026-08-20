@@ -99,4 +99,4 @@ cd crypto-fundamentals-lab
 pip install -r requirements.txt
 \`\`\`
 
-*Contacto: [LinkedIn](enlace) | Disponible para residencias/internships*
+*Contacto: [LinkedIn](https://www.linkedin.com/in/jose-pablo-jimenez/) | Disponible para residencias/internships*
