@@ -66,3 +66,77 @@ python src/cifrador_cesar.py
 \`\`\`
 
 **Output de ejemplo:**
+
+
+*(Captura de pantalla real aquí — imagen del terminal)*
+
+### Versión 2 — Cifrado Vigenère
+**Archivo:** `src/cifrador_vigenere.py`
+
+Añade cifrado polialfabético con clave de texto. Incluye validación de entrada
+y manejo de caracteres no alfabéticos (espacios, números, puntuación).
+
+\`\`\`bash
+python src/cifrador_vigenere.py
+\`\`\`
+
+**Nuevo en V2:**
+- Cifrado con clave de texto de longitud variable
+- Descifrado exacto con la misma clave
+- Preservación de espacios y caracteres especiales
+
+### Versión 3 — Criptoanálisis: romper César sin la clave
+Módulo de análisis de frecuencia que ataca el Cifrado César probando los 25
+desplazamientos posibles y evaluando cuál produce texto legible en español/inglés.
+
+**Nuevo en V3:**
+- Ataque de fuerza bruta sobre los 25 posibles desplazamientos
+- Ranking de candidatos por frecuencia de letras comunes
+
+---
+
+## Uso
+
+\`\`\`bash
+# Clonar el repo completo
+git clone https://github.com/tu-usuario/crypto-fundamentals-lab.git
+cd crypto-fundamentals-lab/cifrador-clasico
+
+# Ejecutar el cifrador César
+python src/cifrador_cesar.py
+
+# Ejecutar el cifrador Vigenère
+python src/cifrador_vigenere.py
+\`\`\`
+
+Sin dependencias externas — solo Python 3 estándar.
+
+---
+
+## Mejoras planeadas
+
+- **Soporte para ROT13** — variante fija de César usada en foros y ofuscación básica
+- **Índice de coincidencia (IC)** — método estadístico para encontrar la longitud de la clave Vigenère
+- **Interfaz de argumentos CLI** — pasar texto y clave directamente como parámetros con argparse
+- **Exportar resultado a archivo** — guardar salida en `.txt` para uso en reportes
+
+---
+
+## Habilidades demostradas
+
+- Implementación de algoritmos criptográficos desde cero (sin librerías de cifrado)
+- Manipulación de strings y aritmética modular en Python
+- Pensamiento ofensivo: romper un cifrado además de implementarlo
+- Documentación técnica orientada a portafolio profesional
+
+---
+
+## Recursos de referencia
+
+- Kahn, D. (1967). *The Codebreakers* — historia estándar de la criptografía clásica
+- Shannon, C. (1949). *Communication Theory of Secrecy Systems* — paper que formalizó por qué estos cifrados fallan
+
+---
+
+*Parte de [`crypto-fundamentals-lab`](../) | Fase 1 del portafolio de ciberseguridad*  
+*[Ver todos los proyectos →](https://github.com/tu-usuario)*
