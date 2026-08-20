@@ -65,6 +65,7 @@ produce un hash completamente distinto.
 python src/hash_generator.py
 ```
 
+---
 **Output de ejemplo:**
 
 Texto a hashear: hola
@@ -194,6 +195,19 @@ En un escenario real de auditoría: primero diccionario, después fuerza bruta s
 
 ---
 
+## Recursos de referencia
+
+- **NIST SP 800-63B** — Digital Identity Guidelines: Authentication and Lifecycle Management
+- **OWASP Foundation** — Password Storage Cheat Sheet & Password Cracking Guidelines
+- **Katz, J. & Lindell, Y.** — *Introduction to Modern Cryptography* (Funciones hash criptográficas)
+
+---
+
 *Parte de [`crypto-fundamentals-lab`](../) · Proyecto 2 de 15 · Fase 1 — Fundamentos*  
 *Proyecto anterior: [Cifrador César / Vigenère](../cifrador-clasico/) ·
 Proyecto siguiente: [Verificador de Integridad](../file-integrity-monitor/)*
+
+---
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [`LICENSE`](../LICENSE) para más detalles.
