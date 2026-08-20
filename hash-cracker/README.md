@@ -203,7 +203,7 @@ En un escenario real de auditoría: primero diccionario, después fuerza bruta s
 
 ---
 
-*Parte de [`crypto-fundamentals-lab`](../) · Proyecto 2 de 15 · Fase 1 — Fundamentos*  
+*Parte de [`crypto-fundamentals-lab`](https://github.com/jxsewv/crypto-fundamentals-lab) · Proyecto 2 de 15 · Fase 1 — Fundamentos*  
 *Proyecto anterior: [Cifrador César / Vigenère](../cifrador-clasico/) ·
 Proyecto siguiente: [Verificador de Integridad](../file-integrity-monitor/)*
 
