@@ -93,10 +93,10 @@ incluirse directamente en reportes de auditoría.
 
 ## Configuración
 
-\`\`\`bash
-git clone https://github.com/tu-usuario/crypto-fundamentals-lab.git
+```bash
+git clone https://github.com/jxsewv/crypto-fundamentals-lab.git
 cd crypto-fundamentals-lab
 pip install -r requirements.txt
-\`\`\`
+```
 
 *Contacto: [LinkedIn](https://www.linkedin.com/in/jose-pablo-jimenez/) | Disponible para residencias/internships*
