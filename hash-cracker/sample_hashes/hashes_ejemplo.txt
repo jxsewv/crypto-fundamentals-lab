@@ -1,0 +1,8 @@
+# hashes_ejemplo.txt
+# Formato: hash:algoritmo:nota
+# Estos hashes corresponden a contraseñas deliberadamente débiles para práctica
+
+5f4dcc3b5aa765d61d8327deb882cf99:md5:contraseña clásica "password"
+e10adc3949ba59abbe56e057f20f883e:md5:contraseña "123456"
+8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92:sha256:contraseña "123456"
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8:sha256:contraseña "password"
