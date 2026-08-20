@@ -136,7 +136,7 @@ python src/criptoanalis-cesar.py
 
 # Clonar el repo completo
 
-git clone https://github.com/tu-usuario/crypto-fundamentals-lab.git
+git clone https://github.com/jxsewv/crypto-fundamentals-lab.git
 
 cd crypto-fundamentals-lab/cifrador-clasico
 
