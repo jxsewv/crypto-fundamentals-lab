@@ -1,0 +1,3 @@
+# No se requieren dependencias externas (librerías pip).
+# Los scripts utilizan exclusivamente la biblioteca estándar de Python 3 (Python Standard Library).
+# Compatible con Python 3.6+
