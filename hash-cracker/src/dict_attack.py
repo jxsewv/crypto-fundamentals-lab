@@ -4,7 +4,10 @@ dict_attack.py
 Ataque de diccionario contra un hash MD5 o SHA256.
 Compara cada palabra de una wordlist hasheada contra el objetivo.
 
+
 Uso: python dict_attack.py
+Autor: [José Jiménez]
+
 """
 import hashlib
 import sys

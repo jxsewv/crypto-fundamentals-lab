@@ -1,0 +1,1 @@
+# Solo requiere la biblioteca estándar de Python 3 (hashlib, itertools, string, time)
