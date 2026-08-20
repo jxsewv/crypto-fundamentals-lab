@@ -112,6 +112,9 @@ python src/criptoanalis-cesar.py
 
 ```
 
+![Ejemplo fuerzabruta](./images/criptoanalisis-ejemplo.png)
+
+
 
 **Nuevo en V3:**
 
