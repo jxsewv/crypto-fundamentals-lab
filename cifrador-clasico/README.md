@@ -221,7 +221,8 @@ Sin dependencias externas — solo Python 3 estándar.
 
 
 
-*Parte de [`crypto-fundamentals-lab`](https://github.com/jxsewv/crypto-fundamentals-lab) | Fase 1 del portafolio de ciberseguridad*
+*Parte de [`crypto-fundamentals-lab`](https://github.com/jxsewv/crypto-fundamentals-lab) · Proyecto 1 de 15 · Fase 1 — Fundamentos*  
+*Proyecto siguiente: [hash-cracker](../hash-cracker/)*
 
 *[Ver todos los proyectos →](https://github.com/jxsewv)*
 
