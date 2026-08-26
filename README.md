@@ -1,6 +1,6 @@
 # 🔐 Crypto Fundamentals Lab
 
-**Autor:** Jose Jiménez
+**Autor:** José Jiménez
 **Lenguaje:** Python 3 | Bash
 **Enfoque:** Criptografía aplicada | Integridad de archivos | Cracking de credenciales
 
