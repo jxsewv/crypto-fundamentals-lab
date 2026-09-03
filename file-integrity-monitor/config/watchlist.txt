@@ -1,0 +1,12 @@
+# watchlist.txt
+# Lista de archivos y directorios a monitorear
+# Una ruta por línea — líneas con # son comentarios
+
+/etc/passwd
+/etc/shadow
+/etc/ssh/sshd_config
+/etc/hosts
+/etc/sudoers
+
+# Archivos de tu propio proyecto (para practicar el flujo)
+C:\Users\chuch\OneDrive\Documentos\archivo_prueba.txt
