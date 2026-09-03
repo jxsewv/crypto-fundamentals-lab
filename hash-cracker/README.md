@@ -2,7 +2,7 @@
 
 ### Hashing | Ataques de Diccionario | Fuerza Bruta | Auditoría de Contraseñas | Python 3
 
-**Autor:** Jose Jiménez  
+**Autor:** José Jiménez  
 **Lenguaje:** Python 3  
 **Área:** Criptografía | Seguridad de credenciales | Fase 1 del roadmap
 
